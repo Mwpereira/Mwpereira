@@ -1,5 +1,5 @@
-### Welcome! I'm Michael. 👋
-## Web Developer x UI Designer
+## Welcome! I'm Michael. 👋
+### Web Developer x UI Designer
 
 📚 Languages
 - JavaScript/HTML/CSS
