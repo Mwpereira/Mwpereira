@@ -8,15 +8,17 @@
 - Elixir
 
 🛢 Databases
-- MongoDB
 - PostgreSQL
+- MongoDB
+- DynamoDB
+
 
 🎨 Frameworks
-- Spring Boot
 - .NET
 - Vue.js
-- Electron
+- Spring Boot
 - jQuery
+- Electron
 - Bootstrap
 <!--
 **Mwpereira/Mwpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
