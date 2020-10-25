@@ -1,4 +1,4 @@
-## Welcome! I'm Michael. 👋
+## Welcome! I'm Michael. 🙂
 ### Web Developer x UI Designer
 
 📚 Languages
