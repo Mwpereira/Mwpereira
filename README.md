@@ -2,7 +2,7 @@
 ## Web Developer x UI Designer
 
 📚 Languages
-- Javascript/HTML/CSS
+- JavaScript/HTML/CSS
 - C#
 - Java
 - Elixir
