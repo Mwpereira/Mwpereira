@@ -1,25 +1,25 @@
 ## Welcome! I'm Michael. 🙂
-### Web Developer x UI Designer
+### Full Stack Enthusiast
 
 📚 Languages
-- JavaScript/HTML/CSS
-- C#
+- Typescript/HTML/CSS
 - Java
+- C#
 - Elixir
 
 🛢 Databases
+- DynamoDB
 - PostgreSQL
 - MongoDB
-- DynamoDB
 
 
 🎨 Frameworks
-- .NET
 - Vue.js
+- Electron
+- Bulma
+- .NET
 - Spring Boot
 - jQuery
-- Electron
-- Bootstrap
 
 [![Michael Pereira's Github Stats](https://github-readme-stats.vercel.app/api?username=Mwpereira&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
