@@ -3,15 +3,15 @@
 
 📚 Languages  
 
-<code><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<code><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
 <code><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
 <code><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>
 <code><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></code>
-<code><img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/></code>
+<code><img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/></code>  
 
-🛢 Databases  
+🛢 Databases    
 
 <code><img alt="DynamoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label="/></code>
 <code><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
