@@ -26,5 +26,13 @@
 <code><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></code>
 <code><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></code>
 
+🔨 Tools
+
+<code><img alt="NPM" src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" /></code>
+<code><img alt="Yarn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=" /></code>
+<code><img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" /></code>
+<code><img alt="Webpack" src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" /></code>
+<code><img alt="Github Actions" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=" /></code>
+<code><img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></code>
 
 [![Michael Pereira's Github Stats](https://github-readme-stats.vercel.app/api?username=Mwpereira&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
