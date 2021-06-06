@@ -20,7 +20,8 @@
 🖥 Servers
 
 <span><img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
-<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></span>
+<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="ElasticCloud" src="https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Cloud&color=005571&logo=Elastic+Cloud&logoColor=FFFFFF&label="/></span>
 
 🎨 Frameworks  
 
