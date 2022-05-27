@@ -14,6 +14,7 @@
 <span><img alt="DynamoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label="/>
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
+<img alt="Microsoft SQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label="/></span>
 
 🖥 Servers
 
@@ -27,9 +28,10 @@
 <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
 <img alt="Bulma" src="https://img.shields.io/static/v1?label=&message=Bulma&color=white&style=for-the-badge&logo=Bulma&logoColor=&logoWidth=&labelColor=white&link=" />
 <img alt="Nuxt" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00C58E&label=" />
+<img alt="NextJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
 <img alt="Electron.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label="/>
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-
+<img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=" />
+  
 🔨 Tools
 
 <span><img alt="NPM" src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" />
