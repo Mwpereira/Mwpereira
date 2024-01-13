@@ -26,11 +26,11 @@
 
 🎨 Frameworks  
 
-<span><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-<img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
+<span><img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img alt="Bulma" src="https://img.shields.io/static/v1?label=&message=Bulma&color=white&style=for-the-badge&logo=Bulma&logoColor=&logoWidth=&labelColor=white&link=" />
-<img alt="Nuxt" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00C58E&label=" />
-<img alt="NextJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
+<img alt="Nuxt" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt&color=222222&logo=Nuxt.js&logoColor=00C58E&label=" />
 <img alt="Electron.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label="/>
 <img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=" /></span>
   
